@@ -1,0 +1,9 @@
+subdomain-finder/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── templates/
+│   └── index.html
+└── static/
+    └── style.css
